@@ -28,6 +28,9 @@ brew cask install xquartz
 brew install gtk+3 boost
 brew install dlib
 brew install pkg-config
+brew install hdf5
 pkg-config --libs --cflags dlib-1
+
+pip3 install Cython
 
 pip3 install -r requirements.txt
