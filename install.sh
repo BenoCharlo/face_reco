@@ -26,6 +26,7 @@ source reco_env/bin/activate
 curl -LOk https://github.com/BenoCharlo/face_reco/archive/master.zip
 
 unzip master.zip
+rm -rf master.zip
 
 cd face_reco-master
 
