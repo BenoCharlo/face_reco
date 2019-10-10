@@ -77,7 +77,7 @@ class AlignDlib:
     #OUTER_EYES_AND_NOSE = [33, 48, 38]
 
     INNER_EYES_AND_BOTTOM_LIP = [39, 42, 57]
-    OUTER_EYES_AND_NOSE = [36, 45, 53]
+    OUTER_EYES_AND_NOSE = [36, 45, 33]
 
     def __init__(self, facePredictor):
         """

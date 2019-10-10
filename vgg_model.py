@@ -57,4 +57,4 @@ def create_model():
     model.add(Flatten())
     model.add(Activation('softmax'))
 
-    return Model(inputs=[myInput], outputs=norm_layer)
+    return model
