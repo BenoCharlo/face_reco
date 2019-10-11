@@ -1,5 +1,3 @@
-##
-
 
 ## Deep face recognition for IA Day at X-HEC
 
